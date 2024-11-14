@@ -21,7 +21,7 @@ class ChatScreen extends StatelessWidget {
                   'https://i.pinimg.com/474x/65/91/4a/65914a3b7599345c7aa812c0e2bda12c.jpg'),
           ),
         ),
-        title: const Text('Mi amor ♥️'),
+        title: const Text('bbcita guapa'),
         centerTitle: false,
       ),
       body: _ChatView(),
