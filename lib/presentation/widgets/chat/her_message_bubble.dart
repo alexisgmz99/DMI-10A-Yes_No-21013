@@ -16,7 +16,7 @@ class HerMessageBubble extends StatelessWidget {
           child: const Padding(
             padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
             child: Text(
-              'Hola amor quiero follarte',
+              'Hola follamos bb o q?',
               style: TextStyle(color: Colors.white),
             ),
           ),
@@ -39,7 +39,7 @@ class _ImageBubble extends StatelessWidget {
     return ClipRRect(
         borderRadius: BorderRadius.circular(20),
         child: Image.network(
-          'https://steamuserimages-a.akamaihd.net/ugc/2095922180851446597/39E214A7DBCFA522AAF180CAC573A0E30EADB182/',
+          'https://content.invisioncic.com/n310699/monthly_2024_08/IMG_7011.thumb.gif.590c65694f0adae6af29e850ade17d61.gif',
           width: size.width * 0.7,
           height: 150,
           fit: BoxFit.cover,
@@ -50,7 +50,7 @@ class _ImageBubble extends StatelessWidget {
               width: size.width * 0.7,
               height: 150,
               padding: const EdgeInsets.symmetric( horizontal: 10, vertical: 5),
-              child: const Text('Mi amor está enviando una imagen'),
+              child: const Text('Mi corazón de melón está enviando una imagen'),
             );
           },
         ));

@@ -14,10 +14,10 @@ class ChatScreen extends StatelessWidget {
           padding: EdgeInsets.all(4.0),
           child: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://i.pinimg.com/474x/65/91/4a/65914a3b7599345c7aa812c0e2bda12c.jpg'),
+                'https://steamuserimages-a.akamaihd.net/ugc/1774951292181427305/A951F394132541B0985A285432298DB2640A296E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false'),
           ),
         ),
-        title: const Text('Bbcita chiquita'),
+        title: const Text('bbcita de mi vida'),
         centerTitle: false,
       ),
       body: _ChatView(),
