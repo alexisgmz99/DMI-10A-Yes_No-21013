@@ -44,7 +44,7 @@ class _ImageBubble extends StatelessWidget {
     return ClipRRect(
         borderRadius: BorderRadius.circular(20),
         child: Image.network(
-          imageUrl,
+           'https://steamuserimages-a.akamaihd.net/ugc/1639864316521861446/E5FC61FF0994A3AB5C89FDD4EC39DE601B753079/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false',
           width: size.width * 0.7,
           height: 150,
           fit: BoxFit.cover,
